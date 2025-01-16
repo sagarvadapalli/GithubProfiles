@@ -23,7 +23,8 @@ Requirements
 Installation
 1. Clone the repository: bash git clone https://github.com/sagarvadapalli/GithubProfiles
 2. cd GithubProfiles
-3. Open in Xcode. 4. Open the project:
+3. Open in Xcode 16.
+4. Open the project:
     * Open GithubProfiles.xcodeproj in Xcode.
 5. Run in any iOS simulator or build to personal phone to run app.
 6. No dependencies
