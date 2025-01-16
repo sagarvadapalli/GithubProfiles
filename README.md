@@ -5,7 +5,6 @@
 //  Created by Sagar Vadapalli on 1/15/25.
 //
 
-GitHub Profiles
 GitHub Profiles is a Swift iOS app that allows users to search for GitHub profiles and fetch repository information using the GitHub API.
 
 Features
@@ -14,6 +13,8 @@ Features
 * Fetch and display user repositories
 * Uses Swift's async/await for network calls
 * Includes unit tests with mocked networking calls
+* Added ratelimit and Error handling
+* Pagination is included for loading repositories
 
 Requirements
 * iOS 17.6+
